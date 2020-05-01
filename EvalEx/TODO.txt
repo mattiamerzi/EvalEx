@@ -1,0 +1,12 @@
+- ARRAY:
+  - dichiarazione statica [1,2,3]
+  - DynaFunctions
+   
+- separa in 2 liste gli operatori unari e binari ed elimina quello SCHIFO di "u" in fondo agli operatori
+
+- StoD: rendi dinamico i metodi di conversione
+
+- migliorare la gestione degli INT (come?!)
+
+- builtin da aggiungere:
+  - ROUND, FLOOR, CEIL
