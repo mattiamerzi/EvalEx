@@ -1,3 +1,6 @@
+![GitHub](https://img.shields.io/github/license/mattiamerzi/EvalEx)
+[![Build Status](https://travis-ci.com/mattiamerzi/EvalEx.svg?branch=master)](https://travis-ci.com/mattiamerzi/EvalEx)
+![GitHub issues](https://img.shields.io/github/issues-raw/mattiamerzi/EvalEx)
 
 # EvalEx -- Expression Evaluator
 
